@@ -22,6 +22,12 @@ A tiny browser script is injected into the served index.html through `webServer.
 
 Remove the `node_modules` link and both references in `package.json`, then restart DSH.
 
+## Credits
+
+This plugin was created entirely by **DeepSeek-v4-flash** through the **DeepSeek Harness**.
+
+> 此插件是完全由DeepSeek-v4-flash通过DeepSeek harness制作的
+
 ## License
 
 MIT
