@@ -1,5 +1,7 @@
 # dsh-enter-approve
 
+[![中文](https://img.shields.io/badge/中文-查看中文版-1a7f37?style=for-the-badge)](./README.zh.md)
+
 Press **Enter** to approve the sandbox permission-escalation prompt in the DeepSeek Harness WebUI - no mouse click required.
 
 ## Features
