@@ -1,5 +1,7 @@
 # dsh-enter-approve · Enter 批准快捷键
 
+[![English](https://img.shields.io/badge/English-View%20English-1f6feb?style=for-the-badge)](./README.md)
+
 > 此插件是完全由DeepSeek-v4-flash通过DeepSeek harness制作的
 
 按 **Enter** 即可批准 DeepSeek Harness WebUI 中的沙箱权限提升审批窗口，无需鼠标点击。
