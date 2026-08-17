@@ -1,5 +1,7 @@
 # dsh-enter-approve
 
+https://github.com/abcofabc/dsh-enter-approve/blob/main/README.zh.md
+
 Press **Enter** to approve the sandbox permission-escalation prompt in the DeepSeek Harness WebUI - no mouse click required.
 
 ## Features
