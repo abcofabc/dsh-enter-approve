@@ -1,0 +1,5 @@
+# dsh-enter-approve profile patch layer - insert one loader entry for the plugin
+# package. The entry is a normal cordis loader entry (id + package name).
+- insert:
+    - id: enter-approve
+      name: 'dsh-enter-approve'
